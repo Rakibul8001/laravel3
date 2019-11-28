@@ -1,0 +1,20 @@
+/*@override css*/
+.bg-light{
+    background-color: #c9d0d7 !important;
+}
+
+
+.margin-top{
+    margin-top: 15px;
+}
+.img-top{
+    max-height: 200px;
+}
+.content-top{
+    margin-top: 15px;
+}
+.footer-bottom{
+    padding: 10px;
+    background-color: #c9d0d7;
+    margin-top: 15px;
+}
